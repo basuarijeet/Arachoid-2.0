@@ -1,1 +1,1 @@
-Arachnois 2.0 By Arijeet Basu
+Arachnoid 2.0 By Arijeet Basu
